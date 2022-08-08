@@ -1,0 +1,126 @@
+
+h1{
+  font-family: 'Tangerine', cursive;
+  font-family: 'Bungee Shade', cursive;
+  font-size: 50px;
+  text-align: center;
+  color: darkblue;
+  padding-right: 20px;
+  font-weight: bold;
+  padding: 5px:
+
+}
+.freedom{
+  position: relative;
+  float:right;
+
+}
+.a{
+  position: absolute;
+  text-align:justify;
+
+}
+h2{
+  position: absolute;
+  top: 43%;
+  left: 49%;
+  transform:translate(-50%,-40%);
+  font-size: 25px;
+  font-family: 'Cormorant', serif;
+  font-family: 'BioRhyme', serif;
+  letter-spacing: 5px;
+  font-weight: bold;
+}
+h3{
+  position: absolute;
+  top: 85%;
+  left: 47%;
+  transform:translate(-50%,-40%);
+  font-size: 50px;
+}
+
+@media (max-width: 995px) {
+h2{
+  font-size: 8PX;
+  top: 53%;
+}
+h3{
+  font-size: 20px;
+
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+------comented code---------------
+/*
+.fort{
+  width: 22%;
+  height: 68%;
+
+}
+
+
+
+
+
+
+
+
+
+
+/*.txt{
+  font-size: 50px;
+  color: red;
+  font-weight: bold;
+
+}
+
+
+  <img class="img" src="images/creative.png" alt="" width="1350" height="180">
+
+
+.pp{
+  font-size: 50px;
+  color: blue;
+  padding-right: 20px;
+  font-weight: bold;
+}
+.dd{
+  font-size: 50px;
+  color: darkgreen;
+  padding-right: 20px;
+  font-weight: bold;
+}
+
+.img{
+  position: relative;
+  top: -35px;
+}
+
+
+/*color: red;
+text-align: left;
+text-decoration-color: green;
+text-transform: uppercase;
+text-shadow: 10px 10px 5px green;/*
